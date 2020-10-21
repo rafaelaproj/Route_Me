@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RouteMe</string>
+    <string name="title_activity_maps">Route Me</string>
+
+    <string name="normal_map">Normal</string>
+    <string name="hybrid_map">Híbrido</string>
+    <string name="satellite_map">Satélite</string>
+    <string name="terrain_map">Terreno</string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="dropped_pin">Marcador Posicionado</string>
+    <string name="poi">Ponto de Interesse</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f \n Timestamp: %3$tr"</string>
+</resources>
